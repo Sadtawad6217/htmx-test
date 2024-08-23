@@ -21,7 +21,16 @@
 
 ## Starting the Project
 
-To start the project, run:
+1. Start the project by running:
 
-```bash
-npm start
+    ```bash
+    npm start
+    ```
+
+2. Open your web browser and navigate to:
+
+    ```
+    http://localhost:3000/
+    ```
+
+   The application will serve the `index.js` file at this address.
